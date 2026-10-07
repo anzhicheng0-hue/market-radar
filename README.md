@@ -1,5 +1,7 @@
 # 附近超市 · 肉价地图
 
+这只是一个随便搞出来的网站，目前只能完全显示芬兰境内的LIDL超市，仅供参考
+
 本机地址：[http://localhost:5180](http://localhost:5180)。项目与数据保存在 **F:\LocalSites\market-radar**。
 
 ## 下载后启动
