@@ -1,0 +1,11 @@
+/data/
+/.private/
+/node_modules/
+/outputs/
+/config/google-maps.local.json
+/config/google-maps.local.json.tmp
+/.env
+/.env.*
+!.env.example
+*.pem
+*.key

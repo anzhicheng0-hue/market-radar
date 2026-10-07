@@ -1,0 +1,8 @@
+{
+  "regionLabel": "芬兰 · S / K / Lidl",
+  "sources": [
+    {"id":"s-fi","brandGroup":"s","name":"S 集团 · S-kaupat","host":"www.s-kaupat.fi","url":"https://www.s-kaupat.fi/tuotteet/liha-ja-kasviproteiinit","adapter":"store-required","products":[{"url":"https://www.s-kaupat.fi/tuote/kotimaista-naudan-jauheliha-17-400-g/6414893500044"}]},
+    {"id":"k-fi","brandGroup":"k","name":"K 集团 · K-Ruoka","host":"www.k-ruoka.fi","url":"https://www.k-ruoka.fi/kauppa/tuotehaku/liha-ja-kasviproteiinit","adapter":"store-required","products":[{"url":"https://www.k-ruoka.fi/kauppa/tuote/pirkka-kanan-fileesuikale-400g-mton-6410405343413"}]},
+    {"id":"lidl-fi","brandGroup":"lidl","name":"Lidl 芬兰 · 公开肉类报价","host":"www.lidl.fi","url":"https://www.lidl.fi/h/lihat/h10095752","adapter":"lidl-grid","chainKey":"lidl","chainKeys":["lidl","q151954"],"scopeLabel":"Lidl 芬兰官网公布价；非该门店实时货架价，库存及售价可能因门店而异。"}
+  ]
+}
