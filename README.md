@@ -1,12 +1,12 @@
 # 附近超市 · 肉价地图
 
-本机地址：**http://localhost:5180**。项目与数据保存在 **F:\LocalSites\market-radar**。
+本机地址：[http://localhost:5180](http://localhost:5180)。项目与数据保存在 **F:\LocalSites\market-radar**。
 
 ## 下载后启动
 
 1. 安装 [Node.js](https://nodejs.org/) 22 或更高版本。
 2. 将仓库下载并解压到任意目录，或使用 Git 克隆。无需安装第三方依赖。
-3. 在项目目录运行 `npm start`，然后打开 http://localhost:5180；终端需要保持运行。Windows 也可以双击“启动网站.cmd”在后台运行，并用“停止网站.cmd”停止。
+3. 在项目目录运行 `npm start`，然后打开 [http://localhost:5180](http://localhost:5180)；终端需要保持运行。Windows 也可以双击“启动网站.cmd”在后台运行，并用“停止网站.cmd”停止。
 4. 首次启动会自动创建 `data` 目录并检查价格来源。采集完成前，页面可能暂时没有报价。
 5. Google 密钥需要在本机网页的地图设置中自行配置。仓库只包含空白配置示例，不包含原电脑的密钥、价格缓存、日志或运行进程信息。
 
